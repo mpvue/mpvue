@@ -1,4 +1,6 @@
 # mpvue
+
+[![Join the chat at https://gitter.im/mpvue/mpvue](https://badges.gitter.im/mpvue/mpvue.svg)](https://gitter.im/mpvue/mpvue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Vue.js in mini program
 
 <img src="http://mpvue.com/assets/logo.png" width="80">
